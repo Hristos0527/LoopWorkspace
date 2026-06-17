@@ -61,3 +61,6 @@
 [submodule "EversenseKit"]
 	path = EversenseKit
 	url = https://github.com/bastiaanv/EversenseKit
+[submodule "LinxCGMKit"]
+	path = LinxCGMKit
+	url = https://github.com/Hristos0527/LinxCGMKit.git
